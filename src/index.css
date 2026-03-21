@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-hand: "Patrick Hand", cursive;
+}
+
+body {
+  @apply bg-neutral-950 text-neutral-900 font-hand;
+}
