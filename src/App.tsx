@@ -157,7 +157,7 @@ export default function App() {
     { 
       name: "AMOR DE PRIMAVERA",
       url: "https://image2url.com/r2/default/audio/1774056413606-a274396c-f370-4017-b8c3-23a028d27878.mp3",
-      artist: "Los Bukis",
+      artist: "Conjunto Chaney",
       image: "https://image2url.com/r2/default/images/1774056509757-a7b76e2c-8d97-4396-860a-5f4da824d270.jpeg",
       message: "La primera cancion que te dedique... Sin duda cada vez que suena o la escucho lloro, la primera cancion que dedique, y una que es muy especial, porque al solo escuchar la INTRO o la cancion, siento un golpe de recuerdos de el año pasado, un golpe bajo muy duro, algo que no puedo aguantar, y peor con esa foto..."
     },
@@ -195,7 +195,7 @@ export default function App() {
     { 
       name: "MACHU PICCHU",
       url: "https://s19.aconvert.com/convert/p3r68-cdx67/hc0nv-6ba97.mp3",
-      artist: "Camilo & Evaluna Montaner",
+      artist: "Camilo & Evaluna",
       image: "https://s11.aconvert.com/convert/p3r68-cdx67/kmbn8-eio0y.jpg",
       message: "Elegi la foto mas bonita de todas... La cancion mas iconica de la relacion, la que mas sono, la que mas se sintio y la que mas escuchamos, una cancion que siempre que escuche y escuches, nos acordaremos uno del otro, la cancion que siempre sonara; Tu Evaluna Yo Camilo..."
     },
