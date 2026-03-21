@@ -165,28 +165,28 @@ export default function App() {
       name: "OH QUÉ SERÁ?",
       url: "https://image2url.com/r2/default/audio/1774056947819-b56054b2-a522-4e26-a5d6-962012f0c434.mp3",
       artist: "Willie Colón",
-      video: "https://s19.aconvert.com/convert/p3r68-cdx67/3xx1v-lxr05.mp4",
+      video: "https://image2url.com/r2/default/videos/1774071793980-6f923608-a1ea-425d-a21a-e3657ae931ec.mp4",
       message: "No recuerdo que se haya dedicado, pero igualmente esta en el libro, aparte es una de mis canciones favoritas de salsa"
     },
     { 
       name: "MOONLIGHT",
-      url: "https://s33.aconvert.com/convert/p3r68-cdx67/h4u06-1mo2n.mp3",
+      url: "https://image2url.com/r2/default/audio/1774069740450-15b604c4-2d61-4bea-ac0d-59eea62be240.mp3",
       artist: "Ariana Grande",
-      video: "https://s17.aconvert.com/convert/p3r68-cdx67/f5cl7-6umq4.mp4",
+      video: "https://image2url.com/r2/default/videos/1774064773384-8e81fed6-c841-49a6-b65e-4fad7e49d311.mp4",
       message: "Recuerdo cuando esta cancion, cuando me la dedicaste me regañaste porque no estaba poniendo atencion a la letra de la cancion.."
     },
     { 
       name: "OJITOS CHINOS",
-      url: "https://s17.aconvert.com/convert/p3r68-cdx67/d8p0i-6rkwm.mp3",
+      url: "https://image2url.com/r2/default/audio/1774071704004-ab87eb8e-bffe-4334-b8ed-703185ddacf7.mp3",
       artist: "El Gran Combo",
-      image: "https://s11.aconvert.com/convert/p3r68-cdx67/lg0fy-2gv1x.jpg",
+      image: "https://i.ibb.co/Kx6PnKjc/juntos3.jpg",
       message: "Una cancion que un dia me dijiste que no dejabas de escuchar, que te gustaba mucho, el mismo dia que fuimos a Gitardota a la Iglesia me lo dijiste, y es una cancion muy iconica en la relacion que tuvimos.."
     },
     { 
       name: "OJITOS LINDOS",
-      url: "https://s17.aconvert.com/convert/p3r68-cdx67/lrdos-m7xjw.mp3",
+      url: "https://image2url.com/r2/default/audio/1774072038059-2ba357f6-2904-4a12-8c4f-298cb5692ea2.mp3",
       artist: "Bad Bunny",
-      video: "https://s19.aconvert.com/convert/p3r68-cdx67/na81z-f3pfj.mp4",
+      video: "https://image2url.com/r2/default/videos/1774072000666-ea77c9dd-63dc-434c-89e3-01bf26f43293.mp4",
       message: "Otra cancion Iconica, una cancion que me dedicaste y en el momento que dice 'Y del lunar cerquita de tu boca...' me recordaste que te acordaba a mi, porque tengo el lunar cerquita de la boca, acuerdate de mi siempre que escuches esa cancion.."
     },
   ];
@@ -194,51 +194,51 @@ export default function App() {
   const rightSongs: Song[] = [
     { 
       name: "MACHU PICCHU",
-      url: "https://s19.aconvert.com/convert/p3r68-cdx67/hc0nv-6ba97.mp3",
+      url: "https://image2url.com/r2/default/audio/1774072088995-65e7fec8-ec2d-4073-b2f3-082d49e6912c.mp3",
       artist: "Camilo & Evaluna",
-      image: "https://s11.aconvert.com/convert/p3r68-cdx67/kmbn8-eio0y.jpg",
+      image: "https://i.ibb.co/gFBh0msb/juntos4.jpg",
       message: "Elegi la foto mas bonita de todas... La cancion mas iconica de la relacion, la que mas sono, la que mas se sintio y la que mas escuchamos, una cancion que siempre que escuche y escuches, nos acordaremos uno del otro, la cancion que siempre sonara; Tu Evaluna Yo Camilo..."
     },
     { 
       name: "QUERER QUERERNOS",
-      url: "https://s31.aconvert.com/convert/p3r68-cdx67/4wnx9-h3qg7.mp3",
+      url: "https://image2url.com/r2/default/audio/1774072129791-22ead4ed-dfb8-4fa4-b620-8621e33ab714.mp3",
       artist: "Canserbero",
-      image: "https://s11.aconvert.com/convert/p3r68-cdx67/35yac-zgq4h.jpg",
+      image: "https://image2url.com/r2/default/images/1774069844305-b8a7d33d-ef7c-4168-bf30-17cbe0a0964b.jpeg",
       message: "Mi cancion favorita de Canserbero... Nunca se dedico, y hice una mencion en una de mis canciones cuando te dije que no se sentia QUERER QUERERNOS... Esta cancion me recuerda mucho a Marzo-Abril, despues del colegio despues de almorzar..."
     },
     { 
       name: "UNA Y OTRA VEZ",
-      url: "https://s31.aconvert.com/convert/p3r68-cdx67/esktr-i9bmn.mp4",
+      url: "https://image2url.com/r2/default/audio/1774072176151-4a49c570-4bda-437a-91e7-c67f49c454d1.mp3",
       artist: "Manuel Medrano",
-      image: "https://s11.aconvert.com/convert/p3r68-cdx67/nwi36-68hfw.jpg",
-      message: "La segunda que me dedicaste de Manuel Medrano que me dedicaste, me acuerda a cuando viviamos juntos, la ponia alla y tambien en mi anterior casa, recuerdo el dia, vivo cada momento como si hubiese sido ayer..."
+      image: "https://image2url.com/r2/default/images/1774069843330-bc63e92f-7469-4e6d-bb0e-61d3eb3b23a0.jpeg",
+      message: "La segunda que me dedicaste de Manuel Medrano que me dedicaste, me acuerda a cuando viviamos juntos, la ponia alla y tambien en mi anterior casa, recuerdo el dia, vivo cada momento como si hubiese sido ayer; como estoy en la foto tengo los ojos ahora :(..."
     },
     { 
       name: "LA CORRECTA",
-      url: "https://s3.aconvert.com/convert/p3r68-cdx67/w3gep-lxtbn.mp4",
+      url: "https://image2url.com/r2/default/audio/1774072212542-a907dcab-84f3-4981-8c3f-8000f92de0b3.mp3",
       artist: "Morat",
-      image: "https://s11.aconvert.com/convert/p3r68-cdx67/ysqy8-fvgq5.jpg",
+      image: "https://image2url.com/r2/default/images/1774069840001-8692e6f9-c771-4559-a597-81e99565c50f.jpeg",
       message: "Morat, morat, morat, espero almenos esa foto te haya hecho reir, me gusta mucho esa foto jajaja...",
       objectPosition: "center"
     },
     { 
       name: "LE PIDO A DIOS",
-      url: "https://s17.aconvert.com/convert/p3r68-cdx67/ylpba-t9ne3.mp4",
+      url: "https://image2url.com/r2/default/audio/1774072245901-446c00bb-49c2-4faf-a6e2-94e3ffb44364.mp3",
       artist: "Feid",
-      image: "https://s11.aconvert.com/convert/p3r68-cdx67/efdel-sts9g.jpg",
+      image: "https://image2url.com/r2/default/images/1774069838476-861f656e-ff8f-43ee-af28-21ce028bfcaf.jpeg",
       message: "Una de mis fotos favoritas por lo hermosa que saliste.. La cancion se hizo realidad, Le Pido a Dios que te cuide, si no es mi favorita, es la segunda favorita mia de Feid, una belleza de cancion y muy iconica para mi, enserio que si, esa cancion me trae recuerdos, me trae vibes, solo la intro ya cambia mi estado de animo, me trae tantas cosas menos lo bonito que eramos de vuelta...",
       objectPosition: "center"
     },
     { 
       name: "BRILLAS ♥",
-      url: "https://s33.aconvert.com/convert/p3r68-cdx67/a041b-cg7px.mp4",
+      url: "https://image2url.com/r2/default/audio/1774072344031-2031fe2f-9a99-4e6f-b8b5-fed8e282e94c.mp3",
       artist: "León Larregui",
-      image: "https://s11.aconvert.com/convert/p3r68-cdx67/utk9s-pq4y7.jpg",
-      message: "No sabes cuanto escuchaba esta cancion antes, especialmente cuando te hacia detalles, esta cancion me trae muchos recuerdos del pasado, de semana santa, de tanto, esa intro  como el empieza la cancion, una obra de arte que me hace recordarte; Y nos dimos todo lo que se nos dio... Y nos dimos todo eso y mucho mas... Imposible escuchar esa cancion sin llorar... y ni hablar de la foto, sin palabras, me gusta mucho la foto, una belleza...",
+      image: "https://image2url.com/r2/default/images/1774069837362-b61a0370-e459-4708-b2f6-4c2d199d1d4f.jpeg",
+      message: "No sabes cuanto escuchaba esta cancion antes, especialmente cuando te hacia detalles, esta cancion me trae muchos recuerdos del pasado, de semana santa, de tanto, esa intro  como el empieza la cancion, me pone tieso que suene, me duele... una obra de arte que me hace recordarte; Y nos dimos todo lo que se nos dio... Y nos dimos todo eso y mucho mas... Imposible escuchar esa cancion sin llorar... y ni hablar de la foto, sin palabras, me gusta mucho la foto, una belleza...",
       objectPosition: "center"
     },
   ];
-
+  
   return (
     <div className="min-h-screen bg-[#0a0a0a] flex items-center justify-center p-2 md:p-8 overflow-hidden font-hand relative">
       {/* Dynamic Background Gradient */}
