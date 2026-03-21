@@ -57,7 +57,7 @@ export default function App() {
   const bgAudioRef = useRef<HTMLAudioElement | null>(null);
 
   useEffect(() => {
-    bgAudioRef.current = new Audio("https://s17.aconvert.com/convert/p3r68-cdx67/dy3ps-bilyr.mp4");
+    bgAudioRef.current = new Audio("https://image2url.com/r2/default/audio/1774074237834-61f7b50a-a3d6-46f1-afb9-c527a01dc45f.mp3");
     bgAudioRef.current.loop = true;
     
     return () => {
