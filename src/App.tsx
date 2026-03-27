@@ -57,7 +57,8 @@ export default function App() {
   const [progress, setProgress] = useState(0);
   const [duration, setDuration] = useState(0);
   const [showMessage, setShowMessage] = useState(false);
-  const [showWelcome, setShowWelcome] = useState(true);
+  const [showInitialMessage, setShowInitialMessage] = useState(true);
+  const [showWelcome, setShowWelcome] = useState(false);
   const [showFooterMessage, setShowFooterMessage] = useState(false);
   const [isEnvelopeOpen, setIsEnvelopeOpen] = useState(false);
   const [isEarthSpinning, setIsEarthSpinning] = useState(false);
@@ -3905,6 +3906,40 @@ export default function App() {
                 </div>
                 <Volume2 size={18} className="text-white" />
               </div>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* Initial Message Modal */}
+      <AnimatePresence>
+        {showInitialMessage && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            className="fixed inset-0 z-[101] flex items-center justify-center p-6 bg-black/90 backdrop-blur-md"
+          >
+            <motion.div
+              initial={{ scale: 0.9, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              exit={{ scale: 0.9, opacity: 0 }}
+              transition={{ type: "spring", damping: 20, stiffness: 300 }}
+              className="bg-[#ff6b6b] p-8 rounded-[40px] max-w-sm border-4 border-black shadow-[12px_12px_0px_0px_rgba(0,0,0,1)] relative"
+            >
+              <h2 className="text-white text-2xl font-bold uppercase mb-4 tracking-tighter">Oye...</h2>
+              <p className="text-white text-lg font-bold leading-tight italic mb-6">
+                "Que loco que te vuelvas a meter, no que no querias saber nada de mi, y no me querias volver a ver?"
+              </p>
+              <button 
+                onClick={() => {
+                  setShowInitialMessage(false);
+                  setShowWelcome(true);
+                }}
+                className="w-full bg-black text-white py-4 rounded-2xl font-bold text-sm uppercase tracking-widest hover:scale-105 active:scale-95 transition-transform"
+              >
+                Continuar
+              </button>
             </motion.div>
           </motion.div>
         )}
